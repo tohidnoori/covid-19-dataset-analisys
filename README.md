@@ -192,7 +192,3 @@ This homework demonstrates a complete preprocessing pipeline for a real-world me
 
 - **Porya Ardestani Samani**  
 - **Tohid Nouri**
-
-1. a **shorter GitHub README version**,  
-2. a **more professional academic README**, or  
-3. a **Markdown file ready to paste directly into `README.md`**.
