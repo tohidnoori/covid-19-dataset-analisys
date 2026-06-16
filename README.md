@@ -27,6 +27,22 @@ It includes demographic, clinical, admission, and outcome-related information su
 
 The `id` column is removed during preprocessing.
 
+## **[Data Understanding and Preprocessing Report](./data_preprocessing_report.md)**
+
+A detailed analysis of data quality, missing values, cleaning strategies, feature encoding, time-based feature engineering, and exploratory data analysis is provided in the accompanying preprocessing report.
+
+The report covers:
+
+* Missing value analysis and interpretation
+* Domain-driven data cleaning and imputation
+* Construction of the binary `died` target variable
+* Handling of ICU and intubation information
+* Categorical feature encoding
+* Date and timestamp feature engineering
+* Target distribution analysis
+* Histogram-based exploratory data analysis
+
+This preprocessing stage transforms the raw COVID-19 dataset into a clean, fully numeric, model-ready dataset suitable for machine learning and statistical analysis.
 
 ## Authors
 
