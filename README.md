@@ -93,22 +93,7 @@ Some variables are encoded manually:
 ### Label Encoding
 Other categorical features are label-encoded, including:
 
-- `diabetes`
-- `copd`
-- `asthma`
-- `hypertension`
-- `cardiovascular`
-- `obesity`
-- `renal_chronic`
-- `inmsupr`
-- `other_disease`
-- `tobacco`
-- `contact_other_covid`
-- `covid_res`
-- `pneumonia`
-- `intubed`
-- `icu`
-- `patient_type`
+[`diabetes`,`copd`,`asthma`,`hypertension`,`cardiovascular`,`obesity`,`renal_chronic`,`inmsupr`,`other_disease`,`tobacco`,`contact_other_covid`,`covid_res`,`pneumonia`,`intubed`,`icu`,`patient_type`]
 
 ## Time Feature Engineering
 
