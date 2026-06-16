@@ -23,26 +23,7 @@ The original dataset contains:
 
 It includes demographic, clinical, admission, and outcome-related information such as:
 
-- `sex`
-- `age`
-- `patient_type`
-- `entry_date`
-- `hypertension`
-- `asthma`
-- `copd`
-- `diabetes`
-- `pregnancy`
-- `pneumonia`
-- `tobacco`
-- `renal_chronic`
-- `obesity`
-- `cardiovascular`
-- `other_disease`
-- `contact_other_covid`
-- `res_covid`
-- `died_date`
-- `intubed`
-- `icu`
+`sex`,`age`,`patient_type`,`entry_date`,`hypertension`,`asthma`,`copd`,`diabetes`,`pregnancy`,`pneumonia`,`tobacco`,`renal_chronic`,`obesity`,`cardiovascular`,`other_disease`,`contact_other_covid`,`res_covid`,`died_date`,`intubed`,`icu`
 
 The `id` column is removed during preprocessing.
 
