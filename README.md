@@ -59,17 +59,7 @@ Missing values in `contact_other_covid` are filled with **Unknown** so that miss
 ### Binary Clinical Features
 For clinical binary variables such as:
 
-- `diabetes`
-- `copd`
-- `asthma`
-- `inmsupr`
-- `hypertension`
-- `other_disease`
-- `cardiovascular`
-- `obesity`
-- `pneumonia`
-- `renal_chronic`
-- `tobacco`
+[`diabetes`,`copd`,`asthma`,`inmsupr`,`hypertension`,`other_disease`,`cardiovascular`,`obesity`,`pneumonia`,`renal_chronic`,`tobacco`]
 
 missing values are treated as **No**.
 
