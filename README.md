@@ -42,7 +42,7 @@ The report covers:
 * Target distribution analysis
 * Histogram-based exploratory data analysis
 
-## **[Statistical Inference, Resampling, and Hypothesis Testing](./statistical_analysis/README.md)**
+## **[Statistical Inference, Resampling, and Hypothesis Testing](./statistical_analysis.md)**
 
 The second phase of the project focuses on applying statistical inference techniques to the cleaned COVID-19 dataset. The objective is to understand population characteristics, quantify uncertainty, and investigate clinically relevant relationships between patient attributes and COVID-19 outcomes.
 
