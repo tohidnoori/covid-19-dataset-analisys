@@ -42,7 +42,28 @@ The report covers:
 * Target distribution analysis
 * Histogram-based exploratory data analysis
 
-This preprocessing stage transforms the raw COVID-19 dataset into a clean, fully numeric, model-ready dataset suitable for machine learning and statistical analysis.
+## **[Statistical Inference, Resampling, and Hypothesis Testing](./statistical_analysis/README.md)**
+
+The second phase of the project focuses on applying statistical inference techniques to the cleaned COVID-19 dataset. The objective is to understand population characteristics, quantify uncertainty, and investigate clinically relevant relationships between patient attributes and COVID-19 outcomes.
+
+The analysis includes:
+
+* Central Limit Theorem (CLT) simulation using patient age data
+* Sampling distribution analysis for different sample sizes
+* Standard Error estimation using theoretical and simulation-based approaches
+* Bootstrap resampling for estimating sampling variability
+* Construction of 95% confidence intervals
+* Hypothesis testing using Welch's t-test
+* Chi-square tests for associations between clinical variables and ICU admission
+
+Key findings include:
+
+* Sampling distributions become increasingly normal as sample size increases, providing empirical support for the Central Limit Theorem.
+* Larger sample sizes produce more precise estimates, resulting in smaller standard errors.
+* Bootstrap estimates closely match theoretical results, demonstrating the reliability of resampling methods.
+* Age shows a strong association with ICU admission, with ICU patients being significantly older on average.
+* Several clinical conditions, including diabetes, hypertension, pneumonia, and renal disease, exhibit significant relationships with severe COVID-19 outcomes.
+
 
 ## Authors
 
